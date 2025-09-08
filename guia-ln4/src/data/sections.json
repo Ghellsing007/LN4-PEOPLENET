@@ -1,0 +1,111 @@
+{
+  "sections": [
+    {
+      "id": "introduccion",
+      "title": "Introducción",
+      "content": "El lenguaje de programación LN4 es un potente y versátil lenguaje de desarrollo...",
+      "subsections": []
+    },
+    {
+      "id": "lenguaje-estructuras",
+      "title": "Lenguaje LN4 y estructuras de nodo",
+      "content": "Aunque los elementos de las estructuras de nodo pueden ser también de tipo campo...",
+      "subsections": [
+        "Llamadas a los valores de los elementos de las estructuras de nodo"
+      ]
+    },
+    {
+      "id": "elementos-basicos",
+      "title": "Elementos básicos del lenguaje",
+      "content": "Variables y constantes...",
+      "subsections": [
+        "Variables y constantes",
+        "Tipos de datos",
+        "Llamadas a funciones",
+        "Operadores LN4",
+        "Comentarios en las fórmulas",
+        "Expresiones regulares"
+      ]
+    },
+    {
+      "id": "estructuras-control",
+      "title": "Estructuras de control",
+      "content": "El lenguaje LN4 incluye diversas estructuras de control...",
+      "subsections": [
+        "Sentencias condicionales",
+        "Sentencias de repetición"
+      ]
+    },
+    {
+      "id": "manejo-elementos",
+      "title": "Manejo de elementos",
+      "content": "Un elemento del sistema es cualquier elemento que pertenezca a una estructura de nodo...",
+      "subsections": [
+        "Elementos del sistema",
+        "Sintaxis de lectura y asignación de elementos",
+        "Atributos y Atributos-Métodos",
+        "Ejecución de métodos y conceptos"
+      ]
+    },
+    {
+      "id": "funciones-ln4",
+      "title": "Funciones LN4",
+      "content": "Las funciones LN4 pueden recibir de 0 a n argumentos...",
+      "subsections": [
+        "Funciones para ejecución de código JIT",
+        "Biblioteca básica de funciones",
+        "Funciones para Meta4Objects",
+        "Funciones para manejo de registros",
+        "Funciones para la base de datos lógica",
+        "Funciones e-mind migradas a PeopleNet",
+        "Funciones para transacciones de memoria",
+        "Funciones de nivel 1 para metadatos",
+        "Funciones de nómina",
+        "Funciones de moneda",
+        "Funciones para estadísticas"
+      ]
+    },
+    {
+      "id": "macros-ln4",
+      "title": "Macros LN4",
+      "content": "Las macros del lenguaje LN4 son una serie de constantes...",
+      "subsections": [
+        "Macros básicas",
+        "Macros de búsqueda",
+        "Macros para cuadros de diálogo",
+        "Macros para gestionar botones en cuadros de diálogo",
+        "Macros de funciones de totalización",
+        "Macros para transacciones en base de datos",
+        "Macros para manipulación de cadenas",
+        "Macros de tipo y ámbito de elementos",
+        "Macros de constantes CHR",
+        "Macros de constantes de indirección de atributos",
+        "Macros de autocarga",
+        "Macros de constantes de log",
+        "Macros de constantes de ordenación",
+        "Macros de valores de modo de envío",
+        "Macros de constantes de fecha",
+        "Macros de tipos variantes",
+        "Macros de políticas de compartición",
+        "Macros de funciones de fecha",
+        "Macros matemáticas",
+        "Macros de metadatos de elementos"
+      ]
+    },
+    {
+      "id": "ejecucion-procesos",
+      "title": "Ejecución de procesos con o sin tramos",
+      "content": "Durante el periodo de ejecución de un proceso...",
+      "subsections": []
+    },
+    {
+      "id": "funciones-grabacion",
+      "title": "Funciones de grabación en base de datos",
+      "content": "En este apartado, se explican aquellas funciones que permiten realizar cambios...",
+      "subsections": [
+        "Funciones de acción sobre un bloque",
+        "Funciones de acción en cascada"
+      ]
+    }
+  ]
+}
