@@ -1,5 +1,6 @@
 @@ .. @@
    return (
+   )
 -    <form onSubmit={handleSearch} className="relative">
 +    <form onSubmit={handleSearch} className="relative group">
        <input
